@@ -17,13 +17,21 @@ This breakout board has no active components on it. It's just a connector you ca
 Wire it up to the bottom pins of your Pico board with the following:
 
 GP12 to D0+
+
 GP13 to D0-
+
 GP14 to CK+
+
 GP15 to CK-
+
 GP16 to D2+
+
 GP17 to D2-
+
 GP18 to D1+
+
 GP19 to D1-
+
 And tie all the grounds together to one ground pin. Then you can download this superfun example that will give you bouncy Eben heads (from this tutorial)
 
 ### License
